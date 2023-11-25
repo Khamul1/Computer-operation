@@ -1,4 +1,6 @@
-package ru.javabegin.opp.computer;
+package ru.javabegin.opp.computer.main;
+
+import ru.javabegin.opp.computer.computer.Computer;
 
 public class Main {
     public static void main(String[] arg){

@@ -1,4 +1,4 @@
-package ru.javabegin.opp.computer;
+package ru.javabegin.opp.computer.computer;
 
 public class Computer {
 
